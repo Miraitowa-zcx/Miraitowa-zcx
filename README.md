@@ -58,7 +58,7 @@
 <!--   skyline -->
 <p align="center">
 <a href="https://github.com/Miraitowa-zcx/Miraitowa-zcx/blob/master/assets/2024.stl">
-<img src="https://img.shields.io/badge/Skyline_2024-3D_Model-blue?style=for-the-badge&logo=github" alt="2024 Skyline" />
+<img src="./assets/2024.gif" alt="2024 Skyline" width="100%" />
 </a>
 </p>
 
