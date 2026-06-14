@@ -55,18 +55,21 @@
 <!--   grid-snake ![](https://github.com/Miraitowa-zcx/Miraitowa-zcx/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<!--   skyline 
-<a href="https://skyline.github.com/Miraitowa-zcx/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
+<!--   skyline -->
+<p align="center">
+<a href="https://github.com/Miraitowa-zcx/Miraitowa-zcx/blob/master/assets/2024.stl">
+<img src="https://img.shields.io/badge/Skyline_2024-3D_Model-blue?style=for-the-badge&logo=github" alt="2024 Skyline" />
+</a>
+</p>
 
 <!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/miraitowa-zcx-->
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Miraitowa-zcx" width="auto"></img>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Miraitowa-zcx&theme=github-compact" />
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/miraitowa-zcx-->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Miraitowa-zcx&show-other-skills=true" width="auto"></img>
 
 **📫 How to Reach me:**
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/Miraitowa_zcx" target="blank"><img align="center" src="https://raw.githubusercontent.com/Miraitowa-zcx/Miraitowa-zcx/master/assets/twitter.svg" alt="Miraitowa_zcx" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/Miraitowa-zcx" target="blank"><img align="center" src="https://raw.githubusercontent.com/Miraitowa-zcx/Miraitowa-zcx/master/assets/linkedin.svg" alt="Miraitowa-zcx" height="30" width="30" /></a>
 <a href="mailto:2038322151@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Miraitowa-zcx/Miraitowa-zcx/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
@@ -76,8 +79,10 @@
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Miraitowa-zcx" alt="Miraitowa-zcx" /></a>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Miraitowa-zcx&theme=radical&no-frame=true&no-bg=true&column=7&row=4" alt="Miraitowa-zcx" />
+</a>
 </p>
 
 
@@ -125,7 +130,7 @@ counting of visitors to this page in this section started from June 14, 2024
 [MIT](LICENSE)
 
 
-</p>
+```
 
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
