@@ -24,25 +24,25 @@
 
 <!--   my-skils -->
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                               |
-|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white) ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GoLand Badge](https://img.shields.io/badge/-GoLand-000000?style=flat&logo=goland&logoColor=white) ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![IntelliJ Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) |
-| **Domain Knowledge**                            | [![Microservices Badge](https://img.shields.io/badge/-Microservices-FF6600?style=flat&logoColor=white)](https://github.com/Miraitowa-zcx) [![Cloud Native Badge](https://img.shields.io/badge/-Cloud%20Native-4285F4?style=flat&logoColor=white)](https://github.com/Miraitowa-zcx) [![DDD Badge](https://img.shields.io/badge/-DDD-FF4081?style=flat&logoColor=white)](https://github.com/Miraitowa-zcx) [![Clean Architecture Badge](https://img.shields.io/badge/-Clean%20Architecture-9C27B0?style=flat&logoColor=white)](https://github.com/Miraitowa-zcx) |
-| **CI / CD**                                     | ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
-| **Databases**                                   | ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) |
-| **Frameworks**                                  | ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Gin Badge](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white) ![Kratos Badge](https://img.shields.io/badge/-Kratos-000000?style=flat&logo=go&logoColor=white) ![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) |
-
+| Property             | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Language / IDE**   | ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white) ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GoLand Badge](https://img.shields.io/badge/-GoLand-000000?style=flat&logo=goland&logoColor=white) ![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![IntelliJ Badge](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) |
+| **Domain Knowledge** | [![Microservices Badge](https://img.shields.io/badge/-Microservices-FF6600?style=flat&logoColor=white)](https://github.com/Miraitowa-zcx) [![Cloud Native Badge](https://img.shields.io/badge/-Cloud%20Native-4285F4?style=flat&logoColor=white)](https://github.com/Miraitowa-zcx) [![DDD Badge](https://img.shields.io/badge/-DDD-FF4081?style=flat&logoColor=white)](https://github.com/Miraitowa-zcx) [![Clean Architecture Badge](https://img.shields.io/badge/-Clean%20Architecture-9C27B0?style=flat&logoColor=white)](https://github.com/Miraitowa-zcx)                                                                                                                                                                                                                                                                                                   |
+| **CI / CD**          | ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions Badge](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)                                                                                                       |
+| **Databases**        | ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)                                                                                                                                                                                                             |
+| **Frameworks**       | ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Gin Badge](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white) ![Kratos Badge](https://img.shields.io/badge/-Kratos-000000?style=flat&logo=go&logoColor=white) ![Spring Boot Badge](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)                                                                                                                                                                                                                                          |
 
 <!--   GitHub stats graph -->
+
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
 ![Miraitowa-zcx's github activity graph](https://raw.githubusercontent.com/Miraitowa-zcx/Miraitowa-zcx/output/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Miraitowa-zcx's github stats](https://github-readme-stats.vercel.app/api?username=Miraitowa-zcx&show_icons=true&theme=radical&include_all_commits=true) | ![Miraitowa-zcx's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miraitowa-zcx&theme=radical&layout=compact) |
 
+| .                                                                                                                                                         | .                                                                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| ![Miraitowa-zcx's github stats](https://github-readme-stats.vercel.app/api?username=Miraitowa-zcx&show_icons=true&theme=radical&include_all_commits=true) | ![Miraitowa-zcx's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miraitowa-zcx&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miraitowa-zcx"></img>
 
@@ -85,50 +85,36 @@
 </a>
 </p>
 
+<!--microservices-->
 
-
-
-   <!--microservices-->
 ```mermaid
-graph TD;
-    microservices-->API-Gateway;
-    microservices-->Service-Discovery;
-    microservices-->Load-Balancing;
-    microservices-->Circuit-Breaker;
-    microservices-->Event-Driven;
-    microservices-->CQRS;
+graph TD
+;
+    microservices --> API-Gateway;
+    microservices --> Service-Discovery;
+    microservices --> Load-Balancing;
+    microservices --> Circuit-Breaker;
+    microservices --> Event-Driven;
+    microservices --> CQRS;
    ```
-   
- 
-
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
 
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/Miraitowa-zcx/count.svg">  
-
-counting of visitors to this page in this section started from June 14, 2024
-
+<img src="https://komarev.com/ghpvc/?username=Miraitowa-zcx&color=blue&style=for-the-badge&label=PROFILE+VIEWS">  
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Miraitowa-zcx/Miraitowa-zcx&type=Date)](https://star-history.com/#Miraitowa-zcx/Miraitowa-zcx&Date)
 
-
-
 ### Profile Views
-counting of visitors to this page in this section started from June 14, 2024
 
 ![](https://count.getloli.com/get/@Miraitowa-zcx.github.readme)
 </br>
 
 [MIT](LICENSE)
-
 
 ```
 
